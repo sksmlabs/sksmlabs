@@ -12,7 +12,7 @@ Beyond this, I am also passionately interested in global energy transition and a
 I also welcome discussions on a wide range of topics including product development, technology, cryptocurrency, literature, anime, and travel. Feel free to reach out to me via email or connect on social media platforms:
 
 - **Email:** saxmjain@gmail.com  
-- **Twitter:** [saxmjain](https://twitter.com/sksmjain)
+- **Twitter:** [sksmjain](https://twitter.com/sksmjain)
 - **LinkedIn:** [saxmjain](https://www.linkedin.com/in/saxmjain)
 
 
