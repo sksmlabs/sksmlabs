@@ -3,6 +3,13 @@
 - Led a 15-member team building a Federated Network & Indexing Layer across blockchains & P2P systems
 - Shipped: Call scheduling infra • WebRTC SaaS • Permissionless lending protocol • Decentralized AMM
 
+### Have a look at my Proof of Work  
+<p align="left">
+  <a href="https://sksm.notion.site/1ee360370a638024878cc58d17a24106?v=1ee360370a6380b182b3000c46fe24d6&source=copy_link">
+    <img src="https://img.shields.io/badge/-%20Blockchain%20Research%20%20Work?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ### Things I code with
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
