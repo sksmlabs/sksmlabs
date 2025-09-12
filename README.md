@@ -4,11 +4,8 @@
 - Shipped: Call scheduling infra • WebRTC SaaS • Permissionless lending protocol • Decentralized AMM
 
 ### Have a look at my work  
-<p align="left">
-  <a href="https://sksm.notion.site/1ee360370a638024878cc58d17a24106?v=1ee360370a6380b182b3000c46fe24d6&source=copy_link">
-    <img src="https://img.shields.io/badge/-%20Proof%20of%20Work-2f3136?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Onchain Analysis](https://img.shields.io/badge/Onchain%20Analysis-0A66C2?style=for-the-badge&logo=notion&logoColor=white)](https://sksm.notion.site/1ee360370a638024878cc58d17a24106?v=1ee360370a6380b182b3000c46fe24d6&source=copy_link)
+
 
 ### Things I code with
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
