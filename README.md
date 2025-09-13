@@ -5,6 +5,7 @@
 
 ### Have a look at my work  
 [![Web3 Research Notes](https://img.shields.io/badge/Web3%20Research%20Notes-0A66C2?style=for-the-badge&logo=notion&logoColor=white)](https://sksm.notion.site/1ee360370a638024878cc58d17a24106?v=1ee360370a6380b182b3000c46fe24d6&source=copy_link)
+[![Work Resume](https://img.shields.io/badge/Work%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VZi-JNZ_I-zTvg7OiWqFDIb8zhl9WX1y/view?usp=sharing)
 
 
 ### Things I code with
